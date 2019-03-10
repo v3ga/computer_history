@@ -18,6 +18,6 @@ A set of links related to computer &amp; code history (english and french links)
   * Révolution informationnelle & éducation, vie sociale, familiale, culturelle.
 * [NYTimes — The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
-* [Stephen Wolfram - Untangling the tale of Ada Lovelave](https://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
+* [Stephen Wolfram - Untangling the tale of Ada Lovelace](https://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
 <br />*To some she is a great hero in the history of computing; to others an overestimated minor figure. I’ve been curious for a long time what the real story is. And in preparation for her bicentennial, I decided to try to solve what for me has always been the “mystery of Ada”.*
 * [Interstice.info — Comment marche une machine de turing ?](https://interstices.info/comment-fonctionne-une-machine-de-turing/)
