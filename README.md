@@ -20,4 +20,6 @@ A set of links related to computer &amp; code history (english and french links)
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
 * [Stephen Wolfram - Untangling the tale of Ada Lovelace](https://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
 <br />*To some she is a great hero in the history of computing; to others an overestimated minor figure. I’ve been curious for a long time what the real story is. And in preparation for her bicentennial, I decided to try to solve what for me has always been the “mystery of Ada”.*
+* [What Did Ada Lovelace's Program Actually Do?](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
+<br />*In fairness, Lovelace’s program is not easy to explain to the layperson without some hand-waving. It’s the intricacies of her program, though, that make it so remarkable. Whether or not she ought to be known as “the first programmer,” her program was specified with a degree of rigor that far surpassed anything that came before.*
 * [Interstice.info — Comment marche une machine de turing ?](https://interstices.info/comment-fonctionne-une-machine-de-turing/)
