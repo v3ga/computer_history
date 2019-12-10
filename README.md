@@ -30,3 +30,4 @@ A set of links related to computer &amp; code history (english and french links)
    * Des marguerites à l'ordinateur.
    * Enigma, la guerre du code.
 * [Interstice.info — Comment marche une machine de turing ?](https://interstices.info/comment-fonctionne-une-machine-de-turing/)
+* [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />Bauhaus meets binary 
