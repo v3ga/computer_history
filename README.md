@@ -50,6 +50,8 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ## Colette & Charles Bangert
 * [40 Years of Algorithmic Drawing - Begin. / Colette & Charles Bangert](http://fromheretofaraway.com/Block000.html)
 
+![Manfred_Mohr](http://www.emohr.com/paris-1971/images-text/demoPlotlg.jpg)
+
 ## Liens
 
 ### Expositions
