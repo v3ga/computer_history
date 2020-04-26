@@ -32,7 +32,7 @@ A set of links related to computer &amp; code history (english and french links)
    * Des marguerites à l'ordinateur.
    * Enigma, la guerre du code.
 
-### Machine de Turing
+#### Machine de Turing
 * [Interstice.info — Comment marche une machine de turing ?](https://interstices.info/comment-fonctionne-une-machine-de-turing/)<br />*Essayons de faire quelque chose de paradoxal : montrer concrètement comment marche une machine abstraite !
 Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliquer la notion de « procédure mécanique » : on parle d’algorithme. Cette machine est la plus élémentaire possible destinée à mettre en œuvre ces mécanismes de calcul, numériques ou symboliques, comme le font notamment les ordinateurs.*
 
