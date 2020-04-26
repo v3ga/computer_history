@@ -1,6 +1,7 @@
 # Computer history
 A set of links related to computer &amp; code history (english and french links)
 
+## Cours / Ressources
 * [Sher Minn Chong — History of computer art -- part 1 : computer graphics](https://piratefsh.github.io/2019/01/07/computer-art-history-part-1.html)<br />*I’m writing a series of blog posts on computer art history from the 1960s onwards. This is the first part and we’ll talk about the early beginnings of computer graphics. This is part of my work during a week-long programming retreat at the Recurse Center.*
 * [Gérard Verroust — Histoire, épistémologie de l'informatique et Révolution technologique](http://cristal.inria.fr/~weis/info/histoire_de_l_info.html)
   * La formalisation du calcul d'Al Khorizmi à TURING
@@ -43,9 +44,16 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [INA / Vera Molnar sur le rôle de l'ordinateur dans la création artistique](https://www.ina.fr/video/I18089373)<br />*L'artiste peintre Vera MOLNAR déclare que l'attitude romantique de l'artiste, l'intuition, est en contradiction avec l'ordinateur. Un de ses rêves est de créer un robot qui travaillera toutes les nuits comme un esclave en exécutant ce qu'elle veut, il aura en mémoire toutes ses créations passées et fera une liste des choses qu'elle n'a pas faites.*
 * [INA / L'apport de l'ordinateur dans la peinture](https://www.ina.fr/video/I18089371)<br />*Dans l'atelier moderne de la peintre Vera MOLNAR, équipé d'ordinateurs et d'imprimantes, elle explique l'apport de l'ordinateur dans le travail des artistes qui permet notamment la recherche scientifique dans l'art.*
 
+## Colette & Charles Bangert
+* [40 Years of Algorithmic Drawing - Begin. / Colette & Charles Bangert](http://fromheretofaraway.com/Block000.html)
+
+## Liens
+
+### Diversité 
 * [NYTimes — The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
+
+### Outils, art
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
 * [The social conscience of generative art](https://www.artnews.com/art-in-america/features/max-bense-gustav-metzger-generative-art-1202674265/)
 * [The tools of Generative Art, from Flash to Neural Networks](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/)
-* [40 Years of Algorithmic Drawing - Begin. / Colette & Charles Bangert](http://fromheretofaraway.com/Block000.html)
