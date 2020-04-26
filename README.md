@@ -2,7 +2,7 @@
 A set of links related to computer &amp; code history (english and french links)
 
 ## Ada Lovelace
-* [France Culture / Ada Lovelace, la grande ordinatrice](https://www.franceculture.fr/emissions/la-methode-scientifique/ada-lovelace-la-grande-ordinatrice)
+* [France Culture / Ada Lovelace, la grande ordinatrice](https://www.franceculture.fr/emissions/la-methode-scientifique/ada-lovelace-la-grande-ordinatrice)<br />*Quelle a été la vie de la comtesse anglaise Ada Lovelace ? Quels ont été ses recherches et travaux qui ont fait d’elle la première personne de l’Histoire à avoir créé un programme informatique ? A quelle machine s’intéressait-elle, à quels problèmes mathématiques ?*
 * [Stephen Wolfram — Untangling the tale of Ada Lovelace](https://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
 <br />*To some she is a great hero in the history of computing; to others an overestimated minor figure. I’ve been curious for a long time what the real story is. And in preparation for her bicentennial, I decided to try to solve what for me has always been the “mystery of Ada”.*
 * [Two-Bit History — What Did Ada Lovelace's Program Actually Do?](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
