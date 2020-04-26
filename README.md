@@ -1,6 +1,23 @@
 # Computer history
 A set of links related to computer &amp; code history (english and french links)
 
+* [Sher Minn Chong — History of computer art -- part 1 : computer graphics](https://piratefsh.github.io/2019/01/07/computer-art-history-part-1.html)<br />*I’m writing a series of blog posts on computer art history from the 1960s onwards. This is the first part and we’ll talk about the early beginnings of computer graphics. This is part of my work during a week-long programming retreat at the Recurse Center.*
+* [Gérard Verroust — Histoire, épistémologie de l'informatique et Révolution technologique](http://cristal.inria.fr/~weis/info/histoire_de_l_info.html)
+  * La formalisation du calcul d'Al Khorizmi à TURING
+  * Les instruments de calcul analogiques et numériques
+  * L'histoire des automates et de l'horlogerie
+  * La révolution industrielle et ses limites : Charles BABBAGE
+  * L'évolution technologique jusqu'à la synthèse de Von NEUMANN (1947).
+  * Rappels fondamentaux sur le fonctionnement d'une machine de Von NEUMANN ou ordinateur
+  * Les "générations" d'ordinateurs : grandes étapes des techniques électroniques
+  * La conquète de la mémoire
+  * Les grandes classes de langages de programmation
+  * Le dialogue homme-machine de la carte perforée à la réalité virtuelle.
+  * Cybernétique et Systémique, automates neuronaux & connexionnistes
+  * Le calcul en temps réel, la conduite de processus industriel, la robotique.
+  * Révolution informationnelle, travail, production
+  * Révolution informationnelle & éducation, vie sociale, familiale, culturelle.
+
 ## Ada Lovelace
 * [France Culture / Ada Lovelace, la grande ordinatrice](https://www.franceculture.fr/emissions/la-methode-scientifique/ada-lovelace-la-grande-ordinatrice)<br />*Quelle a été la vie de la comtesse anglaise Ada Lovelace ? Quels ont été ses recherches et travaux qui ont fait d’elle la première personne de l’Histoire à avoir créé un programme informatique ? A quelle machine s’intéressait-elle, à quels problèmes mathématiques ?*
 * [Stephen Wolfram — Untangling the tale of Ada Lovelace](https://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
@@ -22,22 +39,6 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ## Manfred Mohr
 * [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
 
-* [Sher Minn Chong — History of computer art -- part 1 : computer graphics](https://piratefsh.github.io/2019/01/07/computer-art-history-part-1.html)<br />*I’m writing a series of blog posts on computer art history from the 1960s onwards. This is the first part and we’ll talk about the early beginnings of computer graphics. This is part of my work during a week-long programming retreat at the Recurse Center.*
-* [Gérard Verroust — Histoire, épistémologie de l'informatique et Révolution technologique](http://cristal.inria.fr/~weis/info/histoire_de_l_info.html)
-  * La formalisation du calcul d'Al Khorizmi à TURING
-  * Les instruments de calcul analogiques et numériques
-  * L'histoire des automates et de l'horlogerie
-  * La révolution industrielle et ses limites : Charles BABBAGE
-  * L'évolution technologique jusqu'à la synthèse de Von NEUMANN (1947).
-  * Rappels fondamentaux sur le fonctionnement d'une machine de Von NEUMANN ou ordinateur
-  * Les "générations" d'ordinateurs : grandes étapes des techniques électroniques
-  * La conquète de la mémoire
-  * Les grandes classes de langages de programmation
-  * Le dialogue homme-machine de la carte perforée à la réalité virtuelle.
-  * Cybernétique et Systémique, automates neuronaux & connexionnistes
-  * Le calcul en temps réel, la conduite de processus industriel, la robotique.
-  * Révolution informationnelle, travail, production
-  * Révolution informationnelle & éducation, vie sociale, familiale, culturelle.
 * [NYTimes — The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
