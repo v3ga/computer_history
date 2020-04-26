@@ -19,6 +19,8 @@ A set of links related to computer &amp; code history (english and french links)
 * [Interstice.info — Comment marche une machine de turing ?](https://interstices.info/comment-fonctionne-une-machine-de-turing/)<br />*Essayons de faire quelque chose de paradoxal : montrer concrètement comment marche une machine abstraite !
 Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliquer la notion de « procédure mécanique » : on parle d’algorithme. Cette machine est la plus élémentaire possible destinée à mettre en œuvre ces mécanismes de calcul, numériques ou symboliques, comme le font notamment les ordinateurs.*
 
+## Manfred Mohr
+* [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
 
 * [Sher Minn Chong — History of computer art -- part 1 : computer graphics](https://piratefsh.github.io/2019/01/07/computer-art-history-part-1.html)<br />*I’m writing a series of blog posts on computer art history from the 1960s onwards. This is the first part and we’ll talk about the early beginnings of computer graphics. This is part of my work during a week-long programming retreat at the Recurse Center.*
 * [Gérard Verroust — Histoire, épistémologie de l'informatique et Révolution technologique](http://cristal.inria.fr/~weis/info/histoire_de_l_info.html)
@@ -39,7 +41,6 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [NYTimes — The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
-* [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)
 * [The social conscience of generative art](https://www.artnews.com/art-in-america/features/max-bense-gustav-metzger-generative-art-1202674265/)
 * [The tools of Generative Art, from Flash to Neural Networks](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/)
 * [40 Years of Algorithmic Drawing - Begin. / Colette & Charles Bangert](http://fromheretofaraway.com/Block000.html)
