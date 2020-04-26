@@ -40,7 +40,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
 
 ## Vera Molnar
-* [INA / Vera Molnar sur le rôle de l'ordinateur dans la création artistique]<br />*L'artiste peintre Vera MOLNAR déclare que l'attitude romantique de l'artiste, l'intuition, est en contradiction avec l'ordinateur. Un de ses rêves est de créer un robot qui travaillera toutes les nuits comme un esclave en exécutant ce qu'elle veut, il aura en mémoire toutes ses créations passées et fera une liste des choses qu'elle n'a pas faites.*
+* [INA / Vera Molnar sur le rôle de l'ordinateur dans la création artistique](https://www.ina.fr/video/I18089373)<br />*L'artiste peintre Vera MOLNAR déclare que l'attitude romantique de l'artiste, l'intuition, est en contradiction avec l'ordinateur. Un de ses rêves est de créer un robot qui travaillera toutes les nuits comme un esclave en exécutant ce qu'elle veut, il aura en mémoire toutes ses créations passées et fera une liste des choses qu'elle n'a pas faites.*
 
 
 * [NYTimes — The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
