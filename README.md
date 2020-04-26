@@ -51,7 +51,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ## Liens
 
 ### Expositions
-[Cybernetic Serendipity](https://cyberneticserendipity.net/)<br />*The Institute of Contemporary Arts in London, 1968*
+* [Cybernetic Serendipity](https://cyberneticserendipity.net/)<br />*The Institute of Contemporary Arts in London, 1968*
 * [Manfred Mohr — Une esthétique programmée](http://www.emohr.com/paris-1971/index.html)<br />*Musée d'Art Moderne de la Ville de Paris, Mai 1971*
 
 ### Diversité 
