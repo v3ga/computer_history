@@ -39,7 +39,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ## Manfred Mohr
 * [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
-* [Exposition / Une esthétique programmée](http://www.emohr.com/paris-1971/index.html)<br />*Musée d'Art Moderne de la Ville de Paris, Mai 1971*
+
 
 ## Vera Molnar
 * [INA / Vera Molnar sur le rôle de l'ordinateur dans la création artistique](https://www.ina.fr/video/I18089373)<br />*L'artiste peintre Vera MOLNAR déclare que l'attitude romantique de l'artiste, l'intuition, est en contradiction avec l'ordinateur. Un de ses rêves est de créer un robot qui travaillera toutes les nuits comme un esclave en exécutant ce qu'elle veut, il aura en mémoire toutes ses créations passées et fera une liste des choses qu'elle n'a pas faites.*
@@ -50,12 +50,19 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ## Liens
 
+### Expositions
+[Cybernetic Serendipity](https://cyberneticserendipity.net/)<br />*The Institute of Contemporary Arts in London, 1968*
+* [Manfred Mohr / Une esthétique programmée](http://www.emohr.com/paris-1971/index.html)<br />*Musée d'Art Moderne de la Ville de Paris, Mai 1971*
+
 ### Diversité 
 * [NYTimes — The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
 
-### Outils, art
+### Archives
+[Compart](http://dada.compart-bremen.de/)<br />*The compArt database Digital Art (daDA) is a growing repository on digital art. It currently focusses on five top categories: people (in their roles as artists, authors, gallerists, etc.), works, events, publications, and institutions.*
 * [The Recode Project](http://www.recodeproject.com/)<br />*The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.*
+
+### Outils, art
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
 * [The social conscience of generative art](https://www.artnews.com/art-in-america/features/max-bense-gustav-metzger-generative-art-1202674265/)<br />*After the advent of the mainframe in the 1940s, it took less than two decades for computers to reach beyond the confines of military R&D to become a widely used platform for artistic experimentation*
 * [The tools of Generative Art, from Flash to Neural Networks](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/)<br />*Like it or not, we are all computer nerds now. All aspects of our lives are driven by computation and algorithms: how we learn, work, play, even date. Given this situation, one could argue that generative art—work created at least in part with autonomous, automated systems—is the art that best reflects our time.*
