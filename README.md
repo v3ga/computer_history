@@ -51,6 +51,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ## Liens
 
 ### Expositions
+* [Computer Graphik](http://dada.compart-bremen.de/item/exhibition/171)<br />*“Computer-Grafik” was the third public show in history of artistic works programmed for a digital computer and executed by a computer-controlled drawing machine (“plotter”).*
 * [Cybernetic Serendipity](https://cyberneticserendipity.net/)<br />*The Institute of Contemporary Arts in London, 1968*
 * [Manfred Mohr — Une esthétique programmée](http://www.emohr.com/paris-1971/index.html)<br />*Musée d'Art Moderne de la Ville de Paris, Mai 1971*
 
