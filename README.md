@@ -59,7 +59,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
 
 ### Archives
-[Compart](http://dada.compart-bremen.de/)<br />*The compArt database Digital Art (daDA) is a growing repository on digital art. It currently focusses on five top categories: people (in their roles as artists, authors, gallerists, etc.), works, events, publications, and institutions.*
+* [Compart](http://dada.compart-bremen.de/)<br />*The compArt database Digital Art (daDA) is a growing repository on digital art. It currently focusses on five top categories: people (in their roles as artists, authors, gallerists, etc.), works, events, publications, and institutions.*
 * [The Recode Project](http://www.recodeproject.com/)<br />*The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.*
 
 ### Outils, art
