@@ -55,5 +55,5 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ### Outils, art
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
-* [The social conscience of generative art](https://www.artnews.com/art-in-america/features/max-bense-gustav-metzger-generative-art-1202674265/)
+* [The social conscience of generative art](https://www.artnews.com/art-in-america/features/max-bense-gustav-metzger-generative-art-1202674265/)<br />*fter the advent of the mainframe in the 1940s, it took less than two decades for computers to reach beyond the confines of military R&D to become a widely used platform for artistic experimentation*
 * [The tools of Generative Art, from Flash to Neural Networks](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/)
