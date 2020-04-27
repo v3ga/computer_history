@@ -42,7 +42,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ## Manfred Mohr
 * [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
 
-## Joan Truckerbord
+## Joan Truckerbrod
 * [Gallery of artworks](https://joantruckenbrodart.com/algorithmic-art-gallery.html)
 
 ## Vera Molnar
