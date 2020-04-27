@@ -5,6 +5,7 @@ A set of links related to computer &amp; code history (english and french links)
 
 ## Cours / Ressources
 * [Sher Minn Chong — History of computer art -- part 1 : computer graphics](https://piratefsh.github.io/2019/01/07/computer-art-history-part-1.html)<br />*I’m writing a series of blog posts on computer art history from the 1960s onwards. This is the first part and we’ll talk about the early beginnings of computer graphics. This is part of my work during a week-long programming retreat at the Recurse Center.*
+* [Prehystories of new media](http://prehystories.blogspot.com/)<br />*"Prehystories of New Media" class at The School of the Art Institute of Chicago (SAIC), Fall 2008 + 2009, instructor: Nina Wenhart*
 * [Gérard Verroust — Histoire, épistémologie de l'informatique et Révolution technologique](http://cristal.inria.fr/~weis/info/histoire_de_l_info.html)
   * La formalisation du calcul d'Al Khorizmi à TURING
   * Les instruments de calcul analogiques et numériques
