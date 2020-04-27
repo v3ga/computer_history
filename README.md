@@ -21,6 +21,7 @@ A set of links related to computer &amp; code history (english and french links)
   * Le calcul en temps réel, la conduite de processus industriel, la robotique.
   * Révolution informationnelle, travail, production
   * Révolution informationnelle & éducation, vie sociale, familiale, culturelle.
+* [Computer Drawing](https://computerdrawing.hypotheses.org/)<br />*Ce carnet de recherche interroge sur le plan des arts les fondements du graphisme l’écriture du signe plastique et le design de données dans l’environnement numérique et dans une perspective d’analyse critique historique des formes de transcodage des données, sans se limiter au réseau internet et à l’écran.*
 
 ## Ada Lovelace
 * [France Culture / Ada Lovelace, la grande ordinatrice](https://www.franceculture.fr/emissions/la-methode-scientifique/ada-lovelace-la-grande-ordinatrice)<br />*Quelle a été la vie de la comtesse anglaise Ada Lovelace ? Quels ont été ses recherches et travaux qui ont fait d’elle la première personne de l’Histoire à avoir créé un programme informatique ? A quelle machine s’intéressait-elle, à quels problèmes mathématiques ?*
