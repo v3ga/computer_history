@@ -59,15 +59,16 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ![Manfred_Mohr](http://www.emohr.com/paris-1971/images-text/demoPlotlg.jpg)
 
-## Liens
+## Links
 
-### Expositions
+### Exhibitions
 * [Computer Graphik](http://dada.compart-bremen.de/item/exhibition/171)<br />*“Computer-Grafik” was the third public show in history of artistic works programmed for a digital computer and executed by a computer-controlled drawing machine (“plotter”).*
 * [Cybernetic Serendipity](https://cyberneticserendipity.net/)<br />*The Institute of Contemporary Arts in London, 1968*
 * [Manfred Mohr — Une esthétique programmée](http://www.emohr.com/paris-1971/index.html)<br />*Musée d'Art Moderne de la Ville de Paris, Mai 1971*
 
-### Languages, outils
+### Languages + tools
 * [Strange Loop 2019 - Recreating forgotten programming languages, for art!](https://about.sourcegraph.com/strange-loop/strange-loop-2019-recreating-forgotten-programming-languages-for-art)<br />*The early beginnings of computer graphics in the 1960s saw the birth of a number programming languages that were created specifically for making animations and graphics.*
+* [Video / The mother of all demos ](https://www.youtube.com/watch?v=yJDv-zdhzMY)<br />*The Mother of All Demos is a name given retrospectively to Douglas Engelbart's December 9, 1968, demonstration of experimental computer technologies that are now commonplace. The live demonstration featured the introduction of the computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor.*
 * [Video / The incredible machine](https://www.youtube.com/watch?v=iwVu2BWLZqA)<br />*Interesting old film detailing advancements in computer/digital technology, featuring the 'Graphic 1' computer system at Bell Telephone Laboratories.*
 
 
@@ -75,12 +76,12 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [Compart](http://dada.compart-bremen.de/)<br />*The compArt database Digital Art (daDA) is a growing repository on digital art. It currently focusses on five top categories: people (in their roles as artists, authors, gallerists, etc.), works, events, publications, and institutions.*
 * [The Recode Project](http://www.recodeproject.com/)<br />*The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.*
 
-### Articles généralistes
+### Generalist articles
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
 * [The social conscience of generative art](https://www.artnews.com/art-in-america/features/max-bense-gustav-metzger-generative-art-1202674265/)<br />*After the advent of the mainframe in the 1940s, it took less than two decades for computers to reach beyond the confines of military R&D to become a widely used platform for artistic experimentation*
 * [The tools of Generative Art, from Flash to Neural Networks](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/)<br />*Like it or not, we are all computer nerds now. All aspects of our lives are driven by computation and algorithms: how we learn, work, play, even date. Given this situation, one could argue that generative art—work created at least in part with autonomous, automated systems—is the art that best reflects our time.*
 
-### Diversité 
+### Diversity 
 * [NYTimes — The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
 
