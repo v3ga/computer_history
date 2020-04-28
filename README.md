@@ -77,6 +77,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ### Archives
 * [Compart](http://dada.compart-bremen.de/)<br />*The compArt database Digital Art (daDA) is a growing repository on digital art. It currently focusses on five top categories: people (in their roles as artists, authors, gallerists, etc.), works, events, publications, and institutions.*
+* [Digital Art Museum](http://dam.org/home)<br />*Digital Art Museum is an online resource for the history and practice of digital fine art. It informs on historical and on contemporary positions choosen by an advisory panel. It exhibits the work of leading Artists in this field since 1956.*
 * [The Recode Project](http://www.recodeproject.com/)<br />*The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.*
 
 ### Generalist articles
