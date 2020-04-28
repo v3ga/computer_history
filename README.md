@@ -2,7 +2,7 @@
 A set of links related to computer &amp; code history (english and french links)
 
 ![Sketchpad](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SketchpadDissertation-Fig1-2.tif/lossy-page1-749px-SketchpadDissertation-Fig1-2.tif.jpg)
-*Ivan Sutherland — Sketchpad*
+<br />*Ivan Sutherland — Sketchpad*
 
 ## Cours / Ressources
 * [Sher Minn Chong — History of computer art -- part 1 : computer graphics](https://piratefsh.github.io/2019/01/07/computer-art-history-part-1.html)<br />*I’m writing a series of blog posts on computer art history from the 1960s onwards. This is the first part and we’ll talk about the early beginnings of computer graphics. This is part of my work during a week-long programming retreat at the Recurse Center.*
