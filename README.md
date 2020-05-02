@@ -81,6 +81,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ### Archives
 * [Compart](http://dada.compart-bremen.de/)<br />*The compArt database Digital Art (daDA) is a growing repository on digital art. It currently focusses on five top categories: people (in their roles as artists, authors, gallerists, etc.), works, events, publications, and institutions.*
 * [Digital Art Museum](http://dam.org/home)<br />*Digital Art Museum is an online resource for the history and practice of digital fine art. It informs on historical and on contemporary positions choosen by an advisory panel. It exhibits the work of leading Artists in this field since 1956.*
+* [The Anne and Michael Spalter Digital Art Collection (Spalter Digital),](http://spalterdigital.com/)<br />*The Anne and Michael Spalter Digital Art Collection (Spalter Digital), is one of the world’s largest private collections of early computer art, comprising over 750 works from the second half of the twentieth century. Spalter Digital, which focuses on plotter drawings but includes other 2D media as well as sculpture and 16mm film, is home to major and iconic examples from key artists in the field.*
 * [The Recode Project](http://www.recodeproject.com/)<br />*The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.*
 
 ### Generalist articles
