@@ -50,7 +50,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ## Manfred Mohr
 * [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
-* [In the studio with Manfred Mohr](https://youtu.be/7stpmUqManU)<br />AAA (American Abstract Artists) member and digital-art pioneer Manfred Mohr shares his studio practice, processes and stories in a short film by Christian Nguyen.
+* [In the studio with Manfred Mohr](https://youtu.be/7stpmUqManU)<br />*AAA (American Abstract Artists) member and digital-art pioneer Manfred Mohr shares his studio practice, processes and stories in a short film by Christian Nguyen.*
 
 ## Lillian Schwartz
 * [Video / Lillian Schwartz](https://vimeo.com/98960229)<br />*Here's OCR's interview with computer art pioneer Lillian Schwartz, filmed at her home in Manhattan in April, 2014. Video produced by the Office for Creative Research for the 2014 Eyeo Festival.*
