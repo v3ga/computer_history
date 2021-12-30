@@ -1,4 +1,4 @@
-# Computer history
+# Computer & computer art history
 A set of links related to computer &amp; code history (english and french links)
 
 ![Sketchpad](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SketchpadDissertation-Fig1-2.tif/lossy-page1-749px-SketchpadDissertation-Fig1-2.tif.jpg)
@@ -31,24 +31,25 @@ A set of links related to computer &amp; code history (english and french links)
 * [George Dyson — The birth of computer](https://www.ted.com/talks/george_dyson_the_birth_of_the_computer)<br />*Historian George Dyson tells stories from the birth of the modern computer -- from its 17th-century origins to the hilarious notebooks of some early computer engineers.*
 * [Casey Reas — 50 Years of Software Artists: Plotter Drawings to Non-fungible Tokens — Fall 2021](https://docs.google.com/document/d/1Ip560adCBCBWFXlEinmvuEehjIcSj1BcxUGPiVKZ9fQ/edit#heading=h.4tsdr7tpyc1z)<br />*Hybrid studio-style examination of the history of artists working with software from the 1960s to the present. Exploration of artists who have written their own code to explore media including plotter drawings, film, CD-ROMs, websites, and non-fungible tokens (NFTs). Discussion of readings, exploration of artworks, and discussion of student-made experiments. Students will read, watch, and create a series of code experiments.*
 
-## Ada Lovelace
+### Ada Lovelace
 * [France Culture / Ada Lovelace, la grande ordinatrice](https://www.franceculture.fr/emissions/la-methode-scientifique/ada-lovelace-la-grande-ordinatrice)<br />*Quelle a été la vie de la comtesse anglaise Ada Lovelace ? Quels ont été ses recherches et travaux qui ont fait d’elle la première personne de l’Histoire à avoir créé un programme informatique ? A quelle machine s’intéressait-elle, à quels problèmes mathématiques ?*
 * [Stephen Wolfram — Untangling the tale of Ada Lovelace](https://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
 <br />*To some she is a great hero in the history of computing; to others an overestimated minor figure. I’ve been curious for a long time what the real story is. And in preparation for her bicentennial, I decided to try to solve what for me has always been the “mystery of Ada”.*
 * [Two-Bit History — What Did Ada Lovelace's Program Actually Do?](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
 <br />*In fairness, Lovelace’s program is not easy to explain to the layperson without some hand-waving. It’s the intricacies of her program, though, that make it so remarkable. Whether or not she ought to be known as “the first programmer,” her program was specified with a degree of rigor that far surpassed anything that came before.*
 
-## Alan Turing
+### Alan Turing
 * [France Culture / Grande traversée : l'énigmatique Alan Turing](https://www.franceculture.fr/emissions/lenigmatique-alan-turing)
    * Les mythologies d'Alan Turing.
    * Le bug.
    * Des marguerites à l'ordinateur.
    * Enigma, la guerre du code.
 
-#### Machine de Turing
+#### Turing machine
 * [Interstice.info — Comment marche une machine de turing ?](https://interstices.info/comment-fonctionne-une-machine-de-turing/)<br />*Essayons de faire quelque chose de paradoxal : montrer concrètement comment marche une machine abstraite !
 Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliquer la notion de « procédure mécanique » : on parle d’algorithme. Cette machine est la plus élémentaire possible destinée à mettre en œuvre ces mécanismes de calcul, numériques ou symboliques, comme le font notamment les ordinateurs.*
 
+## Generative art pionneers 
 ## Manfred Mohr
 * [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
 * [In the studio with Manfred Mohr](https://youtu.be/7stpmUqManU)<br />*AAA (American Abstract Artists) member and digital-art pioneer Manfred Mohr shares his studio practice, processes and stories in a short film by Christian Nguyen.*
@@ -71,20 +72,13 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ![Manfred_Mohr](http://www.emohr.com/paris-1971/images-text/demoPlotlg.jpg)
 
-## Links
 
-### Exhibitions
+## Exhibitions
 * [Computer Graphik](http://dada.compart-bremen.de/item/exhibition/171)<br />*“Computer-Grafik” was the third public show in history of artistic works programmed for a digital computer and executed by a computer-controlled drawing machine (“plotter”).*
 * [Cybernetic Serendipity](https://cyberneticserendipity.net/)<br />*The Institute of Contemporary Arts in London, 1968*
 * [Manfred Mohr — Une esthétique programmée](http://www.emohr.com/paris-1971/index.html)<br />*Musée d'Art Moderne de la Ville de Paris, Mai 1971*
 * [Curating The American Algorists: Digital Art and National Identity](https://www.mdpi.com/2076-0752/8/3/106/htm)<br />*This essay details the curating strategies and central premise behind the 2013 traveling exhibition The American Algorists: Linear Sublime. This group exhibition, which showcased the artwork of Jean-Pierre Hébert, Manfred Mohr, Roman Verostko, and Mark Wilson, marked the 20th anniversary of New York Digital Salon.*
 * [Behind the Yugoslav art movement that predicted the birth of digital art](https://www.calvertjournal.com/features/show/13223/behind-the-yugoslav-art-movement-that-predicted-the-birth-of-digital-art)<br />*Sixty years ago, a modest exhibition featuring a group of little-known artists opened in the Gallery of Contemporary Art in Zagreb, capital of what was then the Croatian republic of a federal Yugoslavia. Named Nove Tendencije, or New Tendencies, it aimed to represent a snapshot of what was happening in the art world of the time.*
-### Languages + tools
-* [Strange Loop 2019 - Recreating forgotten programming languages, for art!](https://about.sourcegraph.com/strange-loop/strange-loop-2019-recreating-forgotten-programming-languages-for-art)<br />*The early beginnings of computer graphics in the 1960s saw the birth of a number programming languages that were created specifically for making animations and graphics.*
-* [Video / The mother of all demos ](https://www.youtube.com/watch?v=yJDv-zdhzMY)<br />*The Mother of All Demos is a name given retrospectively to Douglas Engelbart's December 9, 1968, demonstration of experimental computer technologies that are now commonplace. The live demonstration featured the introduction of the computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor.*
-* [Video / The incredible machine](https://www.youtube.com/watch?v=iwVu2BWLZqA)<br />*Interesting old film detailing advancements in computer/digital technology, featuring the 'Graphic 1' computer system at Bell Telephone Laboratories.*
-* [Video / Sketchpad](https://www.youtube.com/watch?v=57wj8diYpgY)<br />*Demonstration of Ivan Sutherland's classic Sketchpad system.  Sketchpad, and its associated thesis, is one of the most influential theses in computer science, and it laid the foundation for a very large part of what we take for granted today (and then some) from the perspective of how we interact with computers*
-* [PAST AND FUTURE TURTLES: THE EVOLUTION OF THE LOGO PROGRAMMING LANGUAGE](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)<br />*That afternoon in 1981, I had learned some of a programming language called Logo. The father of Logo was a mathematician and philosopher named Seymour Papert. Interested in learning how to improve mathematics education in young children, in the early 1960s, he had studied under Jean Piaget, a Swiss psychologist who championed a philosophy of learning known as constructivism.*
 
 ### Archives
 * [Compart](http://dada.compart-bremen.de/)<br />*The compArt database Digital Art (daDA) is a growing repository on digital art. It currently focusses on five top categories: people (in their roles as artists, authors, gallerists, etc.), works, events, publications, and institutions.*
@@ -92,13 +86,18 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [The Anne and Michael Spalter Digital Art Collection (Spalter Digital),](http://spalterdigital.com/)<br />*The Anne and Michael Spalter Digital Art Collection (Spalter Digital), is one of the world’s largest private collections of early computer art, comprising over 750 works from the second half of the twentieth century. Spalter Digital, which focuses on plotter drawings but includes other 2D media as well as sculpture and 16mm film, is home to major and iconic examples from key artists in the field.*
 * [The Recode Project](http://www.recodeproject.com/)<br />*The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.*
 
+### Languages + tools
+* [Strange Loop 2019 - Recreating forgotten programming languages, for art!](https://about.sourcegraph.com/strange-loop/strange-loop-2019-recreating-forgotten-programming-languages-for-art)<br />*The early beginnings of computer graphics in the 1960s saw the birth of a number programming languages that were created specifically for making animations and graphics.*
+* [Video / The mother of all demos ](https://www.youtube.com/watch?v=yJDv-zdhzMY)<br />*The Mother of All Demos is a name given retrospectively to Douglas Engelbart's December 9, 1968, demonstration of experimental computer technologies that are now commonplace. The live demonstration featured the introduction of the computer mouse, video conferencing, teleconferencing, hypertext, word processing, hypermedia, object addressing and dynamic file linking, bootstrapping, and a collaborative real-time editor.*
+* [Video / The incredible machine](https://www.youtube.com/watch?v=iwVu2BWLZqA)<br />*Interesting old film detailing advancements in computer/digital technology, featuring the 'Graphic 1' computer system at Bell Telephone Laboratories.*
+* [Video / Sketchpad](https://www.youtube.com/watch?v=57wj8diYpgY)<br />*Demonstration of Ivan Sutherland's classic Sketchpad system.  Sketchpad, and its associated thesis, is one of the most influential theses in computer science, and it laid the foundation for a very large part of what we take for granted today (and then some) from the perspective of how we interact with computers*
+* [PAST AND FUTURE TURTLES: THE EVOLUTION OF THE LOGO PROGRAMMING LANGUAGE](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)<br />*That afternoon in 1981, I had learned some of a programming language called Logo. The father of Logo was a mathematician and philosopher named Seymour Papert. Interested in learning how to improve mathematics education in young children, in the early 1960s, he had studied under Jean Piaget, a Swiss psychologist who championed a philosophy of learning known as constructivism.*
+
 ### Generalist articles
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
 * [The social conscience of generative art](https://www.artnews.com/art-in-america/features/max-bense-gustav-metzger-generative-art-1202674265/)<br />*After the advent of the mainframe in the 1940s, it took less than two decades for computers to reach beyond the confines of military R&D to become a widely used platform for artistic experimentation*
 * [The tools of Generative Art, from Flash to Neural Networks](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/)<br />*Like it or not, we are all computer nerds now. All aspects of our lives are driven by computation and algorithms: how we learn, work, play, even date. Given this situation, one could argue that generative art—work created at least in part with autonomous, automated systems—is the art that best reflects our time.*
 * [Nodi3D, Machines Making Art, and Eigenvectors / Chris Ried](https://generative.substack.com/p/nodi3d-machines-making-art-and-eigenvectors)<br />*I've started adding artists from the last 120 years into a spreadsheet as the first attempt at some of the timeline work I had referred to a few months ago. Right now, being that generative art is rather new, I've found it a bit harder to find dates on artists than I personally thought.*
-
-### Diversity 
 * [NYTimes — The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
 <br />*Computer programming once had much better gender balance than it does today. What went wrong?*
 
