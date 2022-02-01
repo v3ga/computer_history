@@ -50,6 +50,9 @@ A set of links related to computer &amp; code history (english and french links)
 Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliquer la notion de « procédure mécanique » : on parle d’algorithme. Cette machine est la plus élémentaire possible destinée à mettre en œuvre ces mécanismes de calcul, numériques ou symboliques, comme le font notamment les ordinateurs.*
 
 ## Generative art pionneers 
+
+* [The History of Digital Art for Crypto Explorers](https://editorial.superrare.com/2020/06/17/the-history-of-digital-art-for-crypto-explorers/)<br />*The very beginning of computer art can be traced back to the 1950s. During that period artists were exploring mechanical devices and analogue computers, creating works that paved the way for the development of what the early digital pioneers of the 1960s would generate.*
+
 ### Manfred Mohr
 * [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
 * [In the studio with Manfred Mohr](https://youtu.be/7stpmUqManU)<br />*AAA (American Abstract Artists) member and digital-art pioneer Manfred Mohr shares his studio practice, processes and stories in a short film by Christian Nguyen.*
