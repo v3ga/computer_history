@@ -53,6 +53,13 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 * [The History of Digital Art for Crypto Explorers](https://editorial.superrare.com/2020/06/17/the-history-of-digital-art-for-crypto-explorers/)<br />*The very beginning of computer art can be traced back to the 1950s. During that period artists were exploring mechanical devices and analogue computers, creating works that paved the way for the development of what the early digital pioneers of the 1960s would generate.*
 
+### Colette & Charles Bangert
+* [40 Years of Algorithmic Drawing - Begin. / Colette & Charles Bangert](http://fromheretofaraway.com/Block000.html)
+
+### Herbert W. Franke
+* [AB 101: Historical Figures in Generative Art — Herbert W. Franke](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-herbert-w-franke-48911e977096)<br />*erbert W. Franke is many things — among them, an early computer art pioneer. His resume includes accomplished academic, teacher, fiction writer, cave researcher, computer artist, collector, and theoretician.*
+* [Math goes art / A solo show | Kate Vass gallery](https://www.katevassgalerie.com/math-goes-art-by-herbert-w-franke)<br />*The emergence of art is associated with man's desire to learn about the world around him. Art became a powerful tool in the struggle for existence. It helped to create a model of the world, to study it and identify relationships. As human developed, he took art to a new level, which promoted a man to a new development stage.*
+
 
 ### Desmond Paul Henry
 [Gallery on Flickr](https://www.flickr.com/photos/desmondpaulhenry/)<br />*Desmond Paul Henry (1921-2004) ranks among one of the few early British pioneers of Computer Art/Graphics of the 1960's. During this period he constructed a total of three mechanical drawing machines (in 1960, '63 and '67) based around the components of analogue bombsight computers.*
@@ -61,24 +68,22 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [Art & Algorithms : the work of Manfred Mohr](https://www.litrony.com/2019/12/art-and-algorithms-the-work-of-manfred-mohr-by-charlotte-kent/)<br />*Mohr had been an abstract painter and a musician before he turned to computers. He played the tenor saxophone and oboe in jazz clubs across Europe and was a member of the band Rocky Volcano.*
 * [In the studio with Manfred Mohr](https://youtu.be/7stpmUqManU)<br />*AAA (American Abstract Artists) member and digital-art pioneer Manfred Mohr shares his studio practice, processes and stories in a short film by Christian Nguyen.*
 
-### Lillian Schwartz
-* [Video / Lillian Schwartz](https://vimeo.com/98960229)<br />*Here's OCR's interview with computer art pioneer Lillian Schwartz, filmed at her home in Manhattan in April, 2014. Video produced by the Office for Creative Research for the 2014 Eyeo Festival.*
-
-### Joan Truckerbrod
-* [Gallery of artworks](https://joantruckenbrodart.com/algorithmic-art-gallery.html)
+![Manfred_Mohr](http://www.emohr.com/paris-1971/images-text/demoPlotlg.jpg)
 
 ### Vera Molnar
 * [INA / Vera Molnar sur le rôle de l'ordinateur dans la création artistique](https://www.ina.fr/video/I18089373)<br />*L'artiste peintre Vera MOLNAR déclare que l'attitude romantique de l'artiste, l'intuition, est en contradiction avec l'ordinateur. Un de ses rêves est de créer un robot qui travaillera toutes les nuits comme un esclave en exécutant ce qu'elle veut, il aura en mémoire toutes ses créations passées et fera une liste des choses qu'elle n'a pas faites.*
 * [INA / L'apport de l'ordinateur dans la peinture](https://www.ina.fr/video/I18089371)<br />*Dans l'atelier moderne de la peintre Vera MOLNAR, équipé d'ordinateurs et d'imprimantes, elle explique l'apport de l'ordinateur dans le travail des artistes qui permet notamment la recherche scientifique dans l'art.*
 * [Les dessins assistés par ordinateurs de Véra Molnar / cours de Séverine Braud](https://www.profartspla.info/media/arisoft/pdfjs/web/viewer.html?file=https%3A%2F%2Fwww.profartspla.info%2Fimages%2Flycee%2F2021%2FVeraMolnar.pdf)<br />*« Un angle droit commence à être excitant quand il dévie un peu et s’ouvre ou se ferme imperceptiblement »*
 
-### Colette & Charles Bangert
-* [40 Years of Algorithmic Drawing - Begin. / Colette & Charles Bangert](http://fromheretofaraway.com/Block000.html)
+### Lillian Schwartz
+* [Video / Lillian Schwartz](https://vimeo.com/98960229)<br />*Here's OCR's interview with computer art pioneer Lillian Schwartz, filmed at her home in Manhattan in April, 2014. Video produced by the Office for Creative Research for the 2014 Eyeo Festival.*
 
 ### Wacław Szpakowski
 * [Rhythmical Lines](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)<br />*Working in isolation, Wacław Szpakowski made mazelike drawings from single, continuous lines.*
 
-![Manfred_Mohr](http://www.emohr.com/paris-1971/images-text/demoPlotlg.jpg)
+
+### Joan Truckerbrod
+* [Gallery of artworks](https://joantruckenbrodart.com/algorithmic-art-gallery.html)
 
 
 ## Exhibitions
