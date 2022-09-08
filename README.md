@@ -74,6 +74,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [INA / Vera Molnar sur le rôle de l'ordinateur dans la création artistique](https://www.ina.fr/video/I18089373)<br />*L'artiste peintre Vera MOLNAR déclare que l'attitude romantique de l'artiste, l'intuition, est en contradiction avec l'ordinateur. Un de ses rêves est de créer un robot qui travaillera toutes les nuits comme un esclave en exécutant ce qu'elle veut, il aura en mémoire toutes ses créations passées et fera une liste des choses qu'elle n'a pas faites.*
 * [INA / L'apport de l'ordinateur dans la peinture](https://www.ina.fr/video/I18089371)<br />*Dans l'atelier moderne de la peintre Vera MOLNAR, équipé d'ordinateurs et d'imprimantes, elle explique l'apport de l'ordinateur dans le travail des artistes qui permet notamment la recherche scientifique dans l'art.*
 * [Les dessins assistés par ordinateurs de Véra Molnar / cours de Séverine Braud](https://www.profartspla.info/media/arisoft/pdfjs/web/viewer.html?file=https%3A%2F%2Fwww.profartspla.info%2Fimages%2Flycee%2F2021%2FVeraMolnar.pdf)<br />*« Un angle droit commence à être excitant quand il dévie un peu et s’ouvre ou se ferme imperceptiblement »*
+* [AB 101: Historical Figures in Generative Art — Vera Molnár](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-vera-moln%C3%A1r-b2c5f64fccd8)<br />*Vera Molnár is a Hungarian artist living in France that’s considered the first female computer artist. Molnár’s creative career started long before computers, focusing on abstract and geometrical paintings.*
 
 ### Lillian Schwartz
 * [Video / Lillian Schwartz](https://vimeo.com/98960229)<br />*Here's OCR's interview with computer art pioneer Lillian Schwartz, filmed at her home in Manhattan in April, 2014. Video produced by the Office for Creative Research for the 2014 Eyeo Festival.*
@@ -81,10 +82,8 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ### Wacław Szpakowski
 * [Rhythmical Lines](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)<br />*Working in isolation, Wacław Szpakowski made mazelike drawings from single, continuous lines.*
 
-
 ### Joan Truckerbrod
 * [Gallery of artworks](https://joantruckenbrodart.com/algorithmic-art-gallery.html)
-
 
 ## Exhibitions
 * [Computer Graphik](http://dada.compart-bremen.de/item/exhibition/171)<br />*“Computer-Grafik” was the third public show in history of artistic works programmed for a digital computer and executed by a computer-controlled drawing machine (“plotter”).*
