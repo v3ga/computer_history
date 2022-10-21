@@ -53,6 +53,8 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 * [The History of Digital Art for Crypto Explorers](https://editorial.superrare.com/2020/06/17/the-history-of-digital-art-for-crypto-explorers/)<br />*The very beginning of computer art can be traced back to the 1950s. During that period artists were exploring mechanical devices and analogue computers, creating works that paved the way for the development of what the early digital pioneers of the 1960s would generate.*
 
+* [A longer history of generative art](https://www.rightclicksave.com/article/a-longer-history-of-generative-art)<br />*One of the world’s leading scholars of computer art, Nick Lambert, traces a history of generative aesthetics up to NFTs*
+
 ### Colette & Charles Bangert
 * [40 Years of Algorithmic Drawing - Begin. / Colette & Charles Bangert](http://fromheretofaraway.com/Block000.html)
 
