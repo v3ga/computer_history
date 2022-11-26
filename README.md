@@ -103,7 +103,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [The Recode Project](http://www.recodeproject.com/)<br />*The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.*
 
 ### Generative art
-## Truchet tiling
+#### Truchet tiling
 * [Jean-Noël Lafargue - L'improvisateur de tissus (1871)](https://hyperbate.fr/dernier/?p=42335)<br />*Le 28 juillet 1871, face à l’Académie d’Amiens, l’ingénieur textile Édouard Gand a présenté ses travaux sur ce que l’on peut considérer comme un des tout premiers exemples — sinon le premier exemple véritable — de design génératif mécanique.*
 * [Jacques André - Truchet et les pavages](http://jacques-andre.fr/faqtypo/truchet/index.html#pavages)<br />*Les pavages étudiés par Truchet*
 * [Guillaume Pelletier-Auger - Les pavages de Truchet](https://pelletierauger.com/fr/projets/les-pavages-de-truchet.html)<br />*Errances dans les mathématiques françaises du XVIIIe siècle.*
