@@ -96,11 +96,17 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [Behind the Yugoslav art movement that predicted the birth of digital art](https://www.calvertjournal.com/features/show/13223/behind-the-yugoslav-art-movement-that-predicted-the-birth-of-digital-art)<br />*Sixty years ago, a modest exhibition featuring a group of little-known artists opened in the Gallery of Contemporary Art in Zagreb, capital of what was then the Croatian republic of a federal Yugoslavia. Named Nove Tendencije, or New Tendencies, it aimed to represent a snapshot of what was happening in the art world of the time.*
 * [An Uncanny Display: Algorithmic Art at the Whitney Museum](https://blogs.scientificamerican.com/observations/an-uncanny-display-algorithmic-art-at-the-whitney-museum/)<br />*A new show looks back over a half century of this surprisingly robust genre*
 
-### Archives
+### Archives & Museums
 * [Compart](http://dada.compart-bremen.de/)<br />*The compArt database Digital Art (daDA) is a growing repository on digital art. It currently focusses on five top categories: people (in their roles as artists, authors, gallerists, etc.), works, events, publications, and institutions.*
 * [Digital Art Museum](http://dam.org/home)<br />*Digital Art Museum is an online resource for the history and practice of digital fine art. It informs on historical and on contemporary positions choosen by an advisory panel. It exhibits the work of leading Artists in this field since 1956.*
 * [The Anne and Michael Spalter Digital Art Collection (Spalter Digital),](http://spalterdigital.com/)<br />*The Anne and Michael Spalter Digital Art Collection (Spalter Digital), is one of the world’s largest private collections of early computer art, comprising over 750 works from the second half of the twentieth century. Spalter Digital, which focuses on plotter drawings but includes other 2D media as well as sculpture and 16mm film, is home to major and iconic examples from key artists in the field.*
 * [The Recode Project](http://www.recodeproject.com/)<br />*The ReCode Project is a community-driven effort to preserve computer art by translating it into a modern programming language (Processing). Every translated work will be available to the public to learn from, share, and build on.*
+
+### Generative art
+## Truchet tiling
+* [Jean-Noël Lafargue - L'improvisateur de tissus (1871)](https://hyperbate.fr/dernier/?p=42335)<br />*Le 28 juillet 1871, face à l’Académie d’Amiens, l’ingénieur textile Édouard Gand a présenté ses travaux sur ce que l’on peut considérer comme un des tout premiers exemples — sinon le premier exemple véritable — de design génératif mécanique.*
+* [Jacques André - Truchet et les pavages](http://jacques-andre.fr/faqtypo/truchet/index.html#pavages)<br />*Les pavages étudiés par Truchet*
+* [Guillaume Pelletier-Auger - Les pavages de Truchet](https://pelletierauger.com/fr/projets/les-pavages-de-truchet.html)<br />*Errances dans les mathématiques françaises du XVIIIe siècle.*
 
 ### Languages + tools
 * [Strange Loop 2019 - Recreating forgotten programming languages, for art!](https://about.sourcegraph.com/strange-loop/strange-loop-2019-recreating-forgotten-programming-languages-for-art)<br />*The early beginnings of computer graphics in the 1960s saw the birth of a number programming languages that were created specifically for making animations and graphics.*
