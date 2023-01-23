@@ -31,6 +31,12 @@ A set of links related to computer &amp; code history (english and french links)
 * [George Dyson — The birth of computer](https://www.ted.com/talks/george_dyson_the_birth_of_the_computer)<br />*Historian George Dyson tells stories from the birth of the modern computer -- from its 17th-century origins to the hilarious notebooks of some early computer engineers.*
 * [Casey Reas — 50 Years of Software Artists: Plotter Drawings to Non-fungible Tokens — Fall 2021](https://docs.google.com/document/d/1Ip560adCBCBWFXlEinmvuEehjIcSj1BcxUGPiVKZ9fQ/edit#heading=h.4tsdr7tpyc1z)<br />*Hybrid studio-style examination of the history of artists working with software from the 1960s to the present. Exploration of artists who have written their own code to explore media including plotter drawings, film, CD-ROMs, websites, and non-fungible tokens (NFTs). Discussion of readings, exploration of artworks, and discussion of student-made experiments. Students will read, watch, and create a series of code experiments.*
 
+## Computers
+* [When was the first computer invented](https://www.computerhope.com/issues/ch000984.htm)<br />*There is no easy answer to this question due to the many different classifications of computers. The first mechanical computer, created by Charles Babbage in 1822, doesn't resemble what most would consider a computer today.*
+* [Punch card](https://www.computerhope.com/jargon/p/punccard.htm)<br />*Punch cards (or "punched cards"), also known as Hollerith cards or IBM cards, are paper cards where holes may be punched by hand or machine to represent computer data and instructions.*
+
+## Computer pionneers
+
 ### Ada Lovelace
 * [France Culture / Ada Lovelace, la grande ordinatrice](https://www.franceculture.fr/emissions/la-methode-scientifique/ada-lovelace-la-grande-ordinatrice)<br />*Quelle a été la vie de la comtesse anglaise Ada Lovelace ? Quels ont été ses recherches et travaux qui ont fait d’elle la première personne de l’Histoire à avoir créé un programme informatique ? A quelle machine s’intéressait-elle, à quels problèmes mathématiques ?*
 * [Stephen Wolfram — Untangling the tale of Ada Lovelace](https://blog.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
@@ -45,7 +51,7 @@ A set of links related to computer &amp; code history (english and french links)
    * Des marguerites à l'ordinateur.
    * Enigma, la guerre du code.
 
-#### Turing machine
+##### Turing machine
 * [Interstice.info — Comment marche une machine de turing ?](https://interstices.info/comment-fonctionne-une-machine-de-turing/)<br />*Essayons de faire quelque chose de paradoxal : montrer concrètement comment marche une machine abstraite !
 Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliquer la notion de « procédure mécanique » : on parle d’algorithme. Cette machine est la plus élémentaire possible destinée à mettre en œuvre ces mécanismes de calcul, numériques ou symboliques, comme le font notamment les ordinateurs.*
 
