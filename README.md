@@ -5,7 +5,7 @@ A set of links related to computer &amp; code history (english and french links)
 <br />*Ivan Sutherland — Sketchpad*
 
 ## Courses
-* [Thomas Dreher — History of computer art](http://iasl.uni-muenchen.de/links/GCA-III.2e.html)<br />*The early use of mainframe computers to generate texts (see chap.III.1) provides us with one prehistory of computer graphics.*
+* [Thomas Dreher — History of computer art](http://iasl.uni-muenchen.de/links/GCA-III.2e.html)<br />*The early use of mainframe computers to generate texts provides us with one prehistory of computer graphics.*
 * [Christoph Klütsch — The Concepts of Information and Aesthetic in Early Computer Art (1964-71)](http://www.computerkunst.org/Kluetsch_Art_Metaphysics_2006.pdf)<br />*Pictorial information as part of a communication channel can be broken down to repertoires - a level of information theory - and be transformed by generative aesthetic to create macro aesthetic states.*
 * [Sher Minn Chong — History of computer art -- part 1 : computer graphics](https://piratefsh.github.io/2019/01/07/computer-art-history-part-1.html)<br />*I’m writing a series of blog posts on computer art history from the 1960s onwards. This is the first part and we’ll talk about the early beginnings of computer graphics. This is part of my work during a week-long programming retreat at the Recurse Center.*
 * [Prehystories of new media](http://prehystories.blogspot.com/)<br />*"Prehystories of New Media" class at The School of the Art Institute of Chicago (SAIC), Fall 2008 + 2009, instructor: Nina Wenhart*
