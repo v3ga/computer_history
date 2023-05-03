@@ -79,6 +79,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ![Manfred_Mohr](http://www.emohr.com/paris-1971/images-text/demoPlotlg.jpg)
 
 ### Vera Molnar
+* [The Art of Vera Molnar 1947-1974 / Ahmad Moussa](https://www.gorillasun.de/blog/the-art-of-vera-molnar/)<br />*When it comes to early generative art, one name that resonates is Vera Molnár's. She has been at the forefront of computer-generated art since the late 1960s.*
 * [HOLO magazine / Vera Molnar / Weaving Variations](https://www.holo.mg/dossiers/vera-molnar-weaving-variations/)<br />*Augmenting Molnar’s first U.S. solo exhibition, Zsofi Valyi-Nagy parses the legacy of the nonagenarian generative art pioneer.*
 * [INA / Vera Molnar sur le rôle de l'ordinateur dans la création artistique](https://www.ina.fr/video/I18089373)<br />*L'artiste peintre Vera MOLNAR déclare que l'attitude romantique de l'artiste, l'intuition, est en contradiction avec l'ordinateur. Un de ses rêves est de créer un robot qui travaillera toutes les nuits comme un esclave en exécutant ce qu'elle veut, il aura en mémoire toutes ses créations passées et fera une liste des choses qu'elle n'a pas faites.*
 * [INA / L'apport de l'ordinateur dans la peinture](https://www.ina.fr/video/I18089371)<br />*Dans l'atelier moderne de la peintre Vera MOLNAR, équipé d'ordinateurs et d'imprimantes, elle explique l'apport de l'ordinateur dans le travail des artistes qui permet notamment la recherche scientifique dans l'art.*
