@@ -58,10 +58,9 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ## Generative art pionneers 
 * [New Tendencies](https://www.youtube.com/watch?v=uxAA9QtLrSo) 📽<br />*During the period 1961-1973, five international exhibitions were organized under the title New Tendencies in Zagreb, Croatia/Yugoslavia. They continued the development of ideas raised by Exat 51 during the 1950s, and formed part of the broader European post-informel art movement in the 1960s and 70s.*
-
 * [A longer history of generative art](https://www.rightclicksave.com/article/a-longer-history-of-generative-art)<br />*One of the world’s leading scholars of computer art, Nick Lambert, traces a history of generative aesthetics up to NFTs*
 * [When the artists met the algorist](https://www.rightclicksave.com/article/when-the-artists-met-the-algorist)<br />*After a pioneer of generative art reached out to RCS, the community jumped at the chance to talk to Roman Verostko*
-
+* [Generative Art Exploration Chapter I Tracing the Roots: The History of Generative Art](https://www.youtube.com/watch?v=d2LC6Am9bZI)📽<<br />*Embark on a captivating journey through the history and evolution of Generative Art. In the first chapter, delve into its rich history, exploring pioneers and the transformative power of algorithmic creativity. Discover the underlying principles and concepts that drive Generative Art, witnessing the remarkable synergy between human ingenuity and digital innovation. Learn from experts in the field, gaining insight into the profound impact of algorithmic creativity on the artistic landscape.*
 ### Colette & Charles Bangert
 * [40 Years of Algorithmic Drawing - Begin. / Colette & Charles Bangert](http://fromheretofaraway.com/Block000.html)
 
