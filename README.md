@@ -130,7 +130,8 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ### Magazines
 <img src="http://indexgrafik.fr/wp-content/uploads/Computer-Graphics-and-Art-all-Covers-pdf.jpg" />
-* [Computer Graphics & Art](http://indexgrafik.fr/computer-graphics-art/)<br />*« Computer Graphics & Art was an excellent quarterly publication highly focused in computer graphics and computer artists who were using and experimenting with this media back in the 70’s. It was produced in Chico, CA and published by Berkeley Enterprises Inc.*
+
+* [Computer Graphics & Art](http://indexgrafik.fr/computer-graphics-art/)<br /> *« Computer Graphics & Art was an excellent quarterly publication highly focused in computer graphics and computer artists who were using and experimenting with this media back in the 70’s. It was produced in Chico, CA and published by Berkeley Enterprises Inc.*
 
 ### Generalist articles
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
