@@ -32,6 +32,8 @@ A set of links related to computer &amp; code history (english and french links)
 * [Casey Reas — 50 Years of Software Artists: Plotter Drawings to Non-fungible Tokens — Fall 2021](https://docs.google.com/document/d/1Ip560adCBCBWFXlEinmvuEehjIcSj1BcxUGPiVKZ9fQ/edit#heading=h.4tsdr7tpyc1z)<br />*Hybrid studio-style examination of the history of artists working with software from the 1960s to the present. Exploration of artists who have written their own code to explore media including plotter drawings, film, CD-ROMs, websites, and non-fungible tokens (NFTs). Discussion of readings, exploration of artworks, and discussion of student-made experiments. Students will read, watch, and create a series of code experiments.*
 * [Amy Goodchild — Early computer art in the 50’s & 60’s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)<br />*Computing and creativity have always been linked. In the early 1800’s when Charles Babbage designed the Analytical Engine, his friend Ada Lovelace wrote in a letter that, if music could be expressed to the engine, then it “might compose elaborate and scientific pieces of music of any degree of complexity or extent.”*
 * [Le Random — Pre-Modern Era](https://timeline.lerandom.art/#/chapter-1)<br />*Spanning tens of thousands of years, we begin by surveying the advancements in art, mathematics, science and computing history that led to the modern era of generative art.*
+
+
 ## Computers
 * [When was the first computer invented](https://www.computerhope.com/issues/ch000984.htm)<br />*There is no easy answer to this question due to the many different classifications of computers. The first mechanical computer, created by Charles Babbage in 1822, doesn't resemble what most would consider a computer today.*
 * [Punch card](https://www.computerhope.com/jargon/p/punccard.htm)<br />*Punch cards (or "punched cards"), also known as Hollerith cards or IBM cards, are paper cards where holes may be punched by hand or machine to represent computer data and instructions.*
@@ -125,6 +127,10 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 ### Books
 * [Casey Reas / list of books](https://twitter.com/REAS/status/1473041398962159617)<br />*I spent a ton of time this year writing about "Code Art" from the olden times to the present. I'm going to share some of the bibliography for the olden stuff over the next few days... for fun :)*
 * [Raphaël de Courville / list of generative art books](https://twitter.com/sableraph/status/1427649830491496448)<br />*I believe that successful #generativeArt collectors will be the ones who understand the history of computer art 🤓 Here are some good reads / coffee table conversation starters to get you started.*
+
+### Magazines
+<img src="http://indexgrafik.fr/wp-content/uploads/Computer-Graphics-and-Art-all-Covers-pdf.jpg" />
+* [Computer Graphics & Art](http://indexgrafik.fr/computer-graphics-art/)<br />*« Computer Graphics & Art was an excellent quarterly publication highly focused in computer graphics and computer artists who were using and experimenting with this media back in the 70’s. It was produced in Chico, CA and published by Berkeley Enterprises Inc.*
 
 ### Generalist articles
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
