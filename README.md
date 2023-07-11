@@ -88,6 +88,9 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 * [Les dessins assistés par ordinateurs de Véra Molnar / cours de Séverine Braud](https://www.profartspla.info/media/arisoft/pdfjs/web/viewer.html?file=https%3A%2F%2Fwww.profartspla.info%2Fimages%2Flycee%2F2021%2FVeraMolnar.pdf)<br />*« Un angle droit commence à être excitant quand il dévie un peu et s’ouvre ou se ferme imperceptiblement »*
 * [AB 101: Historical Figures in Generative Art — Vera Molnár](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-vera-moln%C3%A1r-b2c5f64fccd8)<br />*Vera Molnár is a Hungarian artist living in France that’s considered the first female computer artist. Molnár’s creative career started long before computers, focusing on abstract and geometrical paintings.*
 
+### Michael Noll
+* [Right Click Save / Michael Noll Interview](https://www.rightclicksave.com/article/the-interview-a-michael-noll)<br />*One of the fathers of computer art discusses his career at Bell Labs and beyond with Douglas Dodds*
+
 ### Lillian Schwartz
 * [Video / Lillian Schwartz](https://vimeo.com/98960229)<br />*Here's OCR's interview with computer art pioneer Lillian Schwartz, filmed at her home in Manhattan in April, 2014. Video produced by the Office for Creative Research for the 2014 Eyeo Festival.*
 
