@@ -136,7 +136,7 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 * [Computer Graphics & Art](http://indexgrafik.fr/computer-graphics-art/)<br /> *« Computer Graphics & Art was an excellent quarterly publication highly focused in computer graphics and computer artists who were using and experimenting with this media back in the 70’s. It was produced in Chico, CA and published by Berkeley Enterprises Inc.*
 
-* [The Art Of Computer Designing: A Black and White Approach](Osamu Sato)<br/>*The computer is a magic box. Many graphic images are hidden inside it. This book is a beginner's introduction to calling forth these images as author Sato shows how to create figures with basic shapes - i.e., lines, arcs, squares and circles - and does so simply, clearly, and above all very logically.*
+* [The Art Of Computer Designing: A Black and White Approach / Osamu Sato](https://archive.org/details/satoArtOfComputerDesigning/mode/2up)<br/>*The computer is a magic box. Many graphic images are hidden inside it. This book is a beginner's introduction to calling forth these images as author Sato shows how to create figures with basic shapes - i.e., lines, arcs, squares and circles - and does so simply, clearly, and above all very logically.*
 
 ### Generalist articles
 * [How Computer Code Became a Modern Design Medium — an Oral History](https://eyeondesign.aiga.org/how-an-mit-research-group-turned-computer-code-into-a-modern-design-medium/)<br />*Bauhaus meets binary* 
