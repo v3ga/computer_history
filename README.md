@@ -68,11 +68,10 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ### Harold Cohen 
 * [The prophecies of AARON](https://outland.art/harold-cohen-aaron/)<br />*In 1973, Harold Cohen created a computer program that could paint and draw. Where does his invention fit in current debates about AI and art?*
-* 
+ 
 ### Herbert W. Franke
 * [AB 101: Historical Figures in Generative Art — Herbert W. Franke](https://medium.com/the-link-art-blocks/ab-101-historical-figures-in-generative-art-herbert-w-franke-48911e977096)<br />*Herbert W. Franke is many things — among them, an early computer art pioneer. His resume includes accomplished academic, teacher, fiction writer, cave researcher, computer artist, collector, and theoretician.*
 * [Math goes art / A solo show | Kate Vass gallery](https://www.katevassgalerie.com/math-goes-art-by-herbert-w-franke)<br />*The emergence of art is associated with man's desire to learn about the world around him. Art became a powerful tool in the struggle for existence. It helped to create a model of the world, to study it and identify relationships. As human developed, he took art to a new level, which promoted a man to a new development stage.*
-
 
 ### Desmond Paul Henry
 [Gallery on Flickr](https://www.flickr.com/photos/desmondpaulhenry/)<br />*Desmond Paul Henry (1921-2004) ranks among one of the few early British pioneers of Computer Art/Graphics of the 1960's. During this period he constructed a total of three mechanical drawing machines (in 1960, '63 and '67) based around the components of analogue bombsight computers.*
