@@ -38,6 +38,7 @@ A set of links related to computer &amp; code history (english and french links)
 ## Computers
 * [When was the first computer invented](https://www.computerhope.com/issues/ch000984.htm)<br />*There is no easy answer to this question due to the many different classifications of computers. The first mechanical computer, created by Charles Babbage in 1822, doesn't resemble what most would consider a computer today.*
 * [Punch card](https://www.computerhope.com/jargon/p/punccard.htm)<br />*Punch cards (or "punched cards"), also known as Hollerith cards or IBM cards, are paper cards where holes may be punched by hand or machine to represent computer data and instructions.*
+* 📽 [Computer History Archives Project  ("CHAP")](https://www.youtube.com/@ComputerHistoryArchivesProject)<br />*We create and provide Educational and Historical video presentations on COMPUTER HISTORY and vintage technology, including restored footage with commentary, for educational purposes, user comment and discussion.  Our channel is an independent educational research activity and our goal is to help make computer history data accessible to everyone.*
 
 ## Computer pionneers
 
