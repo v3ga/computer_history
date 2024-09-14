@@ -106,6 +106,9 @@ Car c’est bien une machine abstraite qu’Alan Turing a inventée pour expliqu
 
 ## Exhibitions
 * [Computer Graphik](http://dada.compart-bremen.de/item/exhibition/171)<br />*“Computer-Grafik” was the third public show in history of artistic works programmed for a digital computer and executed by a computer-controlled drawing machine (“plotter”).*
+* 📽 [Arte programmata](https://www.youtube.com/watch?v=iji_cT9L6RQ)<br />*Italian Kinetic Art from the 1960s*
+  * [Arte programmata catalogue](https://www.docdroid.net/Me19TNE/arte-programmata-catalogue-compressed-pdf)<br />*M&L FINE ART, LONDON, 4 OCTOBER - 20 DECEMBER 2016*
+  * [Arte programmata](https://monoskop.org/images/b/be/Caplan_Lindsay_2018_From_Collective_Creation_to_Creating_Collectives_Arte_programmata_and_the_Open_Work_1962.pdf)<br />*From Collective Creation to Creating Collectives: Arte programmata and the Open Work, 1962*
 * [Cybernetic Serendipity](https://cyberneticserendipity.net/)<br />*The Institute of Contemporary Arts in London, 1968*
 * [Manfred Mohr — Une esthétique programmée](http://www.emohr.com/paris-1971/index.html)<br />*Musée d'Art Moderne de la Ville de Paris, Mai 1971*
 * [Curating The American Algorists: Digital Art and National Identity](https://www.mdpi.com/2076-0752/8/3/106/htm)<br />*This essay details the curating strategies and central premise behind the 2013 traveling exhibition The American Algorists: Linear Sublime. This group exhibition, which showcased the artwork of Jean-Pierre Hébert, Manfred Mohr, Roman Verostko, and Mark Wilson, marked the 20th anniversary of New York Digital Salon.*
