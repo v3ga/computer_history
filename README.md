@@ -1,6 +1,10 @@
 # Computer & computer art history
 A set of links related to computer &amp; code history (english and french links)
 
+<img src="Douglas_Engelbart_Mother_of_all_demos.jpg" />
+
+[Douglas Engelbart — The mother of all demos](https://www.youtube.com/watch?v=UhpTiWyVa6k)
+
 ## Computer graphics & generative art history
 * [Thomas Dreher — History of computer art](http://iasl.uni-muenchen.de/links/GCA-III.2e.html)<br />*The early use of mainframe computers to generate texts provides us with one prehistory of computer graphics.*
 * [Christoph Klütsch — The Concepts of Information and Aesthetic in Early Computer Art (1964-71)](http://www.computerkunst.org/Kluetsch_Art_Metaphysics_2006.pdf)<br />*Pictorial information as part of a communication channel can be broken down to repertoires - a level of information theory - and be transformed by generative aesthetic to create macro aesthetic states.*
