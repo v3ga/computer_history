@@ -49,6 +49,7 @@ A set of links related to computer &amp; code history (english and french links)
 <br />*To some she is a great hero in the history of computing; to others an overestimated minor figure. I’ve been curious for a long time what the real story is. And in preparation for her bicentennial, I decided to try to solve what for me has always been the “mystery of Ada”.*
 * [Two-Bit History — What Did Ada Lovelace's Program Actually Do?](https://twobithistory.org/2018/08/18/ada-lovelace-note-g.html)
 <br />*In fairness, Lovelace’s program is not easy to explain to the layperson without some hand-waving. It’s the intricacies of her program, though, that make it so remarkable. Whether or not she ought to be known as “the first programmer,” her program was specified with a degree of rigor that far surpassed anything that came before.*
+* [Cherchez la femme ! Ada Lovelace — L'invention de l'ordinateur](https://www.arte.tv/fr/videos/090626-014-A/cherchez-la-femme)<br />*Pour les médecins de l'époque, c'est "l'utérus sauteur" d'Ada Lovelace (1815-1852) qui serait à l’origine de son tempérament scientifique. Une théorie loufoque qui permet de minimiser ses réussites : première programmeuse de l'histoire, la fille du poète lord Byron a mis au point l’algorithme de la machine à calculer imaginée par le mathématicien Charles Babbage.*
 
 ### Alan Turing
 * [France Culture / Grande traversée : l'énigmatique Alan Turing](https://www.franceculture.fr/emissions/lenigmatique-alan-turing)
